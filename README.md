@@ -1,1 +1,1 @@
-# Manijdk7
+# Manojdk7
